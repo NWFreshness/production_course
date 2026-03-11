@@ -1,0 +1,21 @@
+{
+    "full_name": "Tyler Mayfield",
+    "name": "Tyler",
+    "current_role": "CCNP Enterprise certified Network Engineer",
+    "location": "Vancouver, WA",
+    "email": "tyler.mayfield@gmail.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "Your specialty 1",
+      "Your specialty 2",
+      "Your specialty 3"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Your Degree",
+        "institution": "Your University",
+        "year": "2020"
+      }
+    ]
+  }

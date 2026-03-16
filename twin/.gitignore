@@ -112,3 +112,7 @@ yarn-error.log*
 out/
 coverage/
 
+### AWS
+lambda-deployment.zip
+lambda-package/
+
